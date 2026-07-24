@@ -1,5 +1,18 @@
 # Leet_Code
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+🚀 LeetCode Solutions
+
+Welcome to my LeetCode solutions repository! This repository contains my accepted LeetCode solutions written in Python as part of my journey to improve my Data Structures and Algorithms (DSA) skills and prepare for software engineering interviews.
+
+👨‍💻 About Me
+🎓 Computer Science Student
+💻 Language: Python
+🎯 Goal: Crack coding interviews and strengthen problem-solving skills.
+📈 Consistently solving LeetCode problems and learning new algorithms.
+📊 Repository Stats
+✅ Problems Solved: 25+
+📝 Platform: LeetCode
+💡 Primary Language: Python
+🔄 Automatically updated using LeetHub v2
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
