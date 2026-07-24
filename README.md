@@ -29,13 +29,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karthikmputhran/Leet_Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/karthikmputhran/Leet_Code/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/karthikmputhran/Leet_Code/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/karthikmputhran/Leet_Code/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/karthikmputhran/Leet_Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/karthikmputhran/Leet_Code/tree/master/0344-reverse-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/karthikmputhran/Leet_Code/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/karthikmputhran/Leet_Code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
