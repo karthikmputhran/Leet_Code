@@ -25,6 +25,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikmputhran/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikmputhran/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -150,4 +152,5 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
