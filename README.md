@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
