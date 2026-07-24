@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/karthikmputhran/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/karthikmputhran/Leet_Code/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/karthikmputhran/Leet_Code/tree/master/1929-concatenation-of-array) |
+| [2942-find-words-containing-character](https://github.com/karthikmputhran/Leet_Code/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/karthikmputhran/Leet_Code/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/karthikmputhran/Leet_Code/tree/master/1108-defanging-an-ip-address) |
 | [2938-separate-black-and-white-balls](https://github.com/karthikmputhran/Leet_Code/tree/master/2938-separate-black-and-white-balls) |
+| [2942-find-words-containing-character](https://github.com/karthikmputhran/Leet_Code/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
