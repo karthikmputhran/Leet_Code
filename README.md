@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/karthikmputhran/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/karthikmputhran/Leet_Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/karthikmputhran/Leet_Code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/karthikmputhran/Leet_Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/karthikmputhran/Leet_Code/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/karthikmputhran/Leet_Code/tree/master/1108-defanging-an-ip-address) |
 | [2938-separate-black-and-white-balls](https://github.com/karthikmputhran/Leet_Code/tree/master/2938-separate-black-and-white-balls) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/karthikmputhran/Leet_Code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/karthikmputhran/Leet_Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/karthikmputhran/Leet_Code/tree/master/2938-separate-black-and-white-balls) |
 ## Sorting
 |  |
