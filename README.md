@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karthikmputhran/Leet_Code/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/karthikmputhran/Leet_Code/tree/master/0066-plus-one) |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthikmputhran/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/karthikmputhran/Leet_Code/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/karthikmputhran/Leet_Code/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthikmputhran/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/karthikmputhran/Leet_Code/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -84,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karthikmputhran/Leet_Code/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthikmputhran/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthikmputhran/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karthikmputhran/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
