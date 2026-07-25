@@ -64,6 +64,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0001-two-sum](https://github.com/karthikmputhran/Leet_Code/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/karthikmputhran/Leet_Code/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthikmputhran/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0648-replace-words](https://github.com/karthikmputhran/Leet_Code/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/karthikmputhran/Leet_Code/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/karthikmputhran/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/karthikmputhran/Leet_Code/tree/master/1929-concatenation-of-array) |
@@ -75,6 +76,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0003-longest-substring-without-repeating-characters](https://github.com/karthikmputhran/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/karthikmputhran/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/karthikmputhran/Leet_Code/tree/master/0242-valid-anagram) |
+| [0648-replace-words](https://github.com/karthikmputhran/Leet_Code/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/karthikmputhran/Leet_Code/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
@@ -85,6 +87,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0242-valid-anagram](https://github.com/karthikmputhran/Leet_Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/karthikmputhran/Leet_Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthikmputhran/Leet_Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0648-replace-words](https://github.com/karthikmputhran/Leet_Code/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/karthikmputhran/Leet_Code/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/karthikmputhran/Leet_Code/tree/master/1108-defanging-an-ip-address) |
 | [2938-separate-black-and-white-balls](https://github.com/karthikmputhran/Leet_Code/tree/master/2938-separate-black-and-white-balls) |
@@ -167,4 +170,8 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/karthikmputhran/Leet_Code/tree/master/0222-count-complete-tree-nodes) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/karthikmputhran/Leet_Code/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
