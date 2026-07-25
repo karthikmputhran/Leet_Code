@@ -24,6 +24,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karthikmputhran/Leet_Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikmputhran/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/karthikmputhran/Leet_Code/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0700-search-in-a-binary-search-tree) |
@@ -45,6 +46,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0104-maximum-depth-of-binary-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karthikmputhran/Leet_Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikmputhran/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/karthikmputhran/Leet_Code/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0700-search-in-a-binary-search-tree) |
@@ -109,6 +111,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/karthikmputhran/Leet_Code/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/karthikmputhran/Leet_Code/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -160,4 +163,8 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/karthikmputhran/Leet_Code/tree/master/0701-insert-into-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/karthikmputhran/Leet_Code/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
