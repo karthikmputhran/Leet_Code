@@ -69,6 +69,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0215-kth-largest-element-in-an-array](https://github.com/karthikmputhran/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0648-replace-words](https://github.com/karthikmputhran/Leet_Code/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/karthikmputhran/Leet_Code/tree/master/0704-binary-search) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthikmputhran/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/karthikmputhran/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/karthikmputhran/Leet_Code/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/karthikmputhran/Leet_Code/tree/master/2942-find-words-containing-character) |
@@ -82,6 +83,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0242-valid-anagram](https://github.com/karthikmputhran/Leet_Code/tree/master/0242-valid-anagram) |
 | [0648-replace-words](https://github.com/karthikmputhran/Leet_Code/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/karthikmputhran/Leet_Code/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthikmputhran/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0169-majority-element](https://github.com/karthikmputhran/Leet_Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthikmputhran/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/karthikmputhran/Leet_Code/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthikmputhran/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,4 +189,8 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karthikmputhran/Leet_Code/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthikmputhran/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
