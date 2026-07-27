@@ -58,6 +58,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0013-roman-to-integer](https://github.com/karthikmputhran/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/karthikmputhran/Leet_Code/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/karthikmputhran/Leet_Code/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0242-valid-anagram](https://github.com/karthikmputhran/Leet_Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/karthikmputhran/Leet_Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthikmputhran/Leet_Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/karthikmputhran/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0648-replace-words](https://github.com/karthikmputhran/Leet_Code/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/karthikmputhran/Leet_Code/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/karthikmputhran/Leet_Code/tree/master/1108-defanging-an-ip-address) |
@@ -113,6 +115,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/karthikmputhran/Leet_Code/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/karthikmputhran/Leet_Code/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
