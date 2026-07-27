@@ -72,6 +72,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0648-replace-words](https://github.com/karthikmputhran/Leet_Code/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/karthikmputhran/Leet_Code/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthikmputhran/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/karthikmputhran/Leet_Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/karthikmputhran/Leet_Code/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/karthikmputhran/Leet_Code/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/karthikmputhran/Leet_Code/tree/master/2942-find-words-containing-character) |
