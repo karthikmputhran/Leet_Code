@@ -71,6 +71,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0169-majority-element](https://github.com/karthikmputhran/Leet_Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthikmputhran/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/karthikmputhran/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/karthikmputhran/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0648-replace-words](https://github.com/karthikmputhran/Leet_Code/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/karthikmputhran/Leet_Code/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karthikmputhran/Leet_Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -86,6 +87,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0013-roman-to-integer](https://github.com/karthikmputhran/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/karthikmputhran/Leet_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karthikmputhran/Leet_Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/karthikmputhran/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/karthikmputhran/Leet_Code/tree/master/0242-valid-anagram) |
 | [0648-replace-words](https://github.com/karthikmputhran/Leet_Code/tree/master/0648-replace-words) |
 | [0771-jewels-and-stones](https://github.com/karthikmputhran/Leet_Code/tree/master/0771-jewels-and-stones) |
@@ -123,6 +125,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karthikmputhran/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/karthikmputhran/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 ## Simulation
 |  |
 | ------- |
