@@ -58,6 +58,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0013-roman-to-integer](https://github.com/karthikmputhran/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/karthikmputhran/Leet_Code/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/karthikmputhran/Leet_Code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/karthikmputhran/Leet_Code/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/karthikmputhran/Leet_Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/karthikmputhran/Leet_Code/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -131,6 +132,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/karthikmputhran/Leet_Code/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/karthikmputhran/Leet_Code/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/karthikmputhran/Leet_Code/tree/master/0704-binary-search) |
 ## Greedy
 |  |
