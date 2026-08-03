@@ -57,6 +57,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0009-palindrome-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/karthikmputhran/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/karthikmputhran/Leet_Code/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/karthikmputhran/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/karthikmputhran/Leet_Code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/karthikmputhran/Leet_Code/tree/master/0412-fizz-buzz) |
@@ -209,9 +210,11 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/karthikmputhran/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/karthikmputhran/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
