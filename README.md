@@ -60,6 +60,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0070-climbing-stairs](https://github.com/karthikmputhran/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/karthikmputhran/Leet_Code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/karthikmputhran/Leet_Code/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/karthikmputhran/Leet_Code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/karthikmputhran/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0509-fibonacci-number) |
@@ -154,6 +155,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | ------- |
 | [0206-reverse-linked-list](https://github.com/karthikmputhran/Leet_Code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/karthikmputhran/Leet_Code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/karthikmputhran/Leet_Code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
