@@ -62,6 +62,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0367-valid-perfect-square](https://github.com/karthikmputhran/Leet_Code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/karthikmputhran/Leet_Code/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/karthikmputhran/Leet_Code/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/karthikmputhran/Leet_Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/karthikmputhran/Leet_Code/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/karthikmputhran/Leet_Code/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -212,9 +213,11 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | ------- |
 | [0070-climbing-stairs](https://github.com/karthikmputhran/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/karthikmputhran/Leet_Code/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/karthikmputhran/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/karthikmputhran/Leet_Code/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
