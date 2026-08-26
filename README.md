@@ -58,6 +58,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0013-roman-to-integer](https://github.com/karthikmputhran/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/karthikmputhran/Leet_Code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/karthikmputhran/Leet_Code/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/karthikmputhran/Leet_Code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/karthikmputhran/Leet_Code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/karthikmputhran/Leet_Code/tree/master/0412-fizz-buzz) |
@@ -152,6 +153,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/karthikmputhran/Leet_Code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/karthikmputhran/Leet_Code/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/karthikmputhran/Leet_Code/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -196,6 +198,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/karthikmputhran/Leet_Code/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/karthikmputhran/Leet_Code/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
